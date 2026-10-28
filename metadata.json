@@ -1,0 +1,6 @@
+{
+  "name": "GP-180 Lab",
+  "description": "Hardware Rig Sync & AI Tone Generator for Valeton GP-180 with Dual Bluetooth BLE & USB MIDI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
